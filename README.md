@@ -12,7 +12,7 @@ Enter name of list of things to rank
 > movies
 
 Enter thing to rank:
-> the rock with sean connery
+> the rock with Sean Connery
 
 Is it better than 'ghost rider with nick cage'? (y/n)
 > y
@@ -20,6 +20,6 @@ Is it better than 'ghost rider with nick cage'? (y/n)
 Is it better than 'thank you for smoking'? (y/n)
 > n
 
-All done. 'the rock with sean connery' is the 12th highest ranked in the list
-'movies' (of the stuf you've ranked so far).
+All done. 'the rock with Sean Connery' is the 12th highest ranked in the list
+'movies' (of the stuff you've ranked so far).
 
